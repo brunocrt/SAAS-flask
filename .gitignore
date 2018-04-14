@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Course Pages
+bsawf-course-material/
+
 # C extensions
 *.so
 
